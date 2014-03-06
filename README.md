@@ -1,6 +1,6 @@
 # careware
 
-Makes text output just a little more friendly by replacing most negative words with postive ones.  Then it uses rainbowify to make the output pretty.
+Makes text output just a little more friendly by replacing most negative words with postive ones.  Then it uses [rainbowify](https://github.com/maxogden/rainbowify) to make the output pretty.
 
 ## usage
 
