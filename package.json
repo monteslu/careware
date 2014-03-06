@@ -1,0 +1,24 @@
+{
+  "name": "careware",
+  "version": "0.1.0",
+  "description": "Makes your output care just a little more than before",
+  "main": "index.js",
+  "bin": {
+    "careware": "./cli.js"
+  },
+  "repository": "git@github.com:monteslu/careware.git",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "careware",
+    "care",
+    "ware"
+  ],
+  "author": "It puts the lotion in the basket",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "rainbowify": "~1.0.1",
+    "sentiment": "~0.2.1"
+  }
+}
