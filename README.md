@@ -6,5 +6,5 @@ Makes text output just a little more friendly by replacing most negative words w
 
 ```
 npm install careware -g
-ccurl -s http://www.dailyscript.com/scripts/pulp_fiction.html | careware 
+curl -s http://www.dailyscript.com/scripts/pulp_fiction.html | careware 
 ```
