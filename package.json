@@ -1,6 +1,6 @@
 {
   "name": "careware",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Makes your output care just a little more than before",
   "main": "index.js",
   "bin": {

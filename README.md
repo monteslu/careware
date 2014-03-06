@@ -8,3 +8,7 @@ Makes text output just a little more friendly by replacing most negative words w
 npm install careware -g
 curl -s http://www.dailyscript.com/scripts/pulp_fiction.html | careware 
 ```
+
+![Screenshot](screenshot.png)
+
+
